@@ -1,6 +1,6 @@
 [submodule "setup"]
 	path = setup
-	url = https://github.com/QuickBox/quickbox_setup.git
+	url = https://github.com/VoidVolker/quickbox_setup.git
 [submodule "dashboard"]
 	path = dashboard
 	url = https://github.com/VoidVolker/quickbox_dashboard.git
