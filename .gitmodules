@@ -6,10 +6,10 @@
 	url = https://github.com/VoidVolker/quickbox_dashboard.git
 [submodule "rutorrent"]
 	path = rutorrent
-	url = https://github.com/QuickBox/quickbox_rutorrent.git
+	url = https://github.com/VoidVolker/quickbox_rutorrent.git
 [submodule "rtplugins"]
 	path = rtplugins
-	url = https://github.com/QuickBox/quickbox_rutorrent-plugins.git
+	url = https://github.com/VoidVolker/quickbox_rutorrent-plugins.git
 [submodule "packages"]
 	path = packages
 	url = https://github.com/VoidVolker/quickbox_packages.git
